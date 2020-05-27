@@ -1,0 +1,11 @@
+[tool]
+[tool.poetry]
+name = "root"
+version = "0.0.0"
+
+[tool.poetry.dependencies]
+python = "*"
+colorama = "==0.4.1"
+json-store-client = "==1.0.1"
+passlib = "==1.7.1"
+termcolor = "==1.1.0"
